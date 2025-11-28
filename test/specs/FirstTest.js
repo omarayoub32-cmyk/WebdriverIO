@@ -8,7 +8,7 @@ describe('Demo tests', function () {
 
         await browser.keys('Enter')
         
-        await browser.pause(4000)
+        await browser.pause(5000)
     })
 })
 
