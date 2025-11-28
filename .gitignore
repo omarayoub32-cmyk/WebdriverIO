@@ -1,0 +1,5 @@
+node_modules
+allure-results
+allure-report
+
+#comment out files below that are not to be tracked by git
